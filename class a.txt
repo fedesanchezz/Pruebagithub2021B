@@ -1,4 +1,13 @@
 class a{
 
+  string Nombre2{
+	get;
+	set;
+  }
+
+  string ApellidoPaterno{
+	get;
+	set;
+  }
 
 }
